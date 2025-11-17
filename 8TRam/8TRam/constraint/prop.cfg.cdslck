@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      kp
+HostName                       kphost.kpdomain
+ProcessIdentifier              3557
+ProcessCreationTime_UTC        1763351589
+ProcessCreationTime_Readable   Mon Nov 17 09:23:09 2025 IST
+AppIdentifier                  /opt/Cadence/installs/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/kp/Cadence/logs/Gokul_DICD/8TRam/constraint/prop.cfg
+TimeEditLocked                 Mon Nov 17 17:39:31 2025 IST
